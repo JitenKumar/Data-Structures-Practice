@@ -87,19 +87,6 @@ csll.insert_at_end(40)
 csll.insert_at_begining(1)
 csll.displaylist()
 
-
-csll = CircularSinglyLinkedList()
-csll.insert_at_begining(10)
-csll.delete_node(20)
-csll.insert_at_end(20)
-csll.insert_at_begining(5)
-csll.insert_at_end(30)
-csll.delete_node(20)
-csll.delete_node(5)
-csll.insert_at_end(40)
-csll.insert_at_begining(1)
-csll.displaylist()
-
 #output
 '''
 Element Not Found in the Linked List
