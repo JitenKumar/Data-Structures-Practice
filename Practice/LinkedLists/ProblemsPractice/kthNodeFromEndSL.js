@@ -56,6 +56,8 @@ var kthNodeFromEnd = function (llist, k) {
   return temp1.info;
 };
 
+
+
 const llItems = [1, 2, 3, 4, 5];
 var ll = new LinkedList();
 llItems.forEach(function (item, index) {
